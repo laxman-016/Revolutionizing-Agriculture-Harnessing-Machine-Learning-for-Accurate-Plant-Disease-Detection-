@@ -2,7 +2,7 @@
 import openai
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'OPEN_AI_KEY'
 
 # Define a prompt or message for the chatbot
 prompt = "imformation related to plants ,crop related dieases and nutrients and their prescribtion with fertilizers and pesticides"
