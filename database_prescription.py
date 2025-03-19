@@ -12,7 +12,7 @@ model = tf.keras.models.load_model(r'C:\Users\laxma\OneDrive\Desktop\project_fol
 connection = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="0587",
+    password="****",
     database="mydata"
 )
 
